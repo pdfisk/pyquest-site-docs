@@ -12,13 +12,14 @@ function showMarkdown() {
     // )
     fetch('./index.md').then(
         (response) => {
-            // response.text().then((text) => { console.log(text); });
-            window.X = response;
-            // console.log('response', response);
-            // response.text().then(
-            //     (text) => {
-            //         console.log(text);
-            //     })
+            console.log('RESPONSE', response);
+            response.text().then(
+                (text) => {
+                    console.log('TEXT', text);
+                    const converter = new showdown.Converter();
+                    const converted_html = document.getElementById('converted_html');
+                    converted_html.innerHTML = converter.makeHtml(text);
+                })
         });
     // if (!response.ok)
     //     throw new Error(`Response status: ${response.status}`);
