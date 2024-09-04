@@ -12,7 +12,7 @@ function showMarkdown() {
     // )
     fetch('./index.md').then(
         (response) => {
-            response.text().then((text) => { console.log(text); });
+            // response.text().then((text) => { console.log(text); });
             window.X = response;
             // console.log('response', response);
             // response.text().then(
