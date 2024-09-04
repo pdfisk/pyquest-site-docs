@@ -10,16 +10,17 @@ function showMarkdown() {
     //         window.X = response;
     //     }
     // )
-    fetch('./abc.md').then(
-        (response) => {
+    fetch('./background_notes/01_browser_environment.md').then(
+        response => {
             console.log('RESPONSE', response);
             response.text().then(
-                (text) => {
+                text => {
                     console.log('TEXT', text);
                     const converter = new showdown.Converter();
                     const converted_html = document.getElementById('converted_html');
-                    converted_html.innerHTML = converter.makeHtml(text);
-                })
+                    const html = converter.makeHtml(text);
+                    converted_html.innerHTML = html;
+                });
         });
     // if (!response.ok)
     //     throw new Error(`Response status: ${response.status}`);
