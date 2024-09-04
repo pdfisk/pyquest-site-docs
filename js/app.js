@@ -8,6 +8,6 @@ async function showMarkdown() {
         throw new Error(`Response status: ${response.status}`);
     const markdown = await response.text();
     const converter = new showdown.Converter();
-    const converted_html = document.getElementById('coverted_html');
+    const converted_html = document.getElementById('converted_html');
     converted_html.innerHTML = converter.makeHtml(markdown);
 }
