@@ -1,1 +1,0 @@
-# Qooxdoo and ExtJS
