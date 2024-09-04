@@ -10,7 +10,15 @@ function showMarkdown() {
     //         window.X = response;
     //     }
     // )
-    fetch('./index.md').then((response)=>{response.text().then((text)=>{console.log(text)})});
+    fetch('./index.md').then(
+        (response) => {
+            window.X = response;
+            console.log('response', response);
+            // response.text().then(
+            //     (text) => {
+            //         console.log(text);
+            //     })
+        });
     // if (!response.ok)
     //     throw new Error(`Response status: ${response.status}`);
     // const markdown = await response.text();
