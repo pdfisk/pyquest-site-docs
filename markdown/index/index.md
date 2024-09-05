@@ -22,9 +22,9 @@
     - [Generating JavaScript from Python](./?path=coding_subjects/07_generating_javascript_from_python)
 
 - Background Notes
-    - Browser Environment
-    - Lessons from Smalltalk
-    - Lessons from CP/M
-    - Qooxdoo and ExtJs
-    - Understanding User Requirements
-    - Learning with Live Code
+    - [Browser Environment](./?path=background_notes/01_browser_environment)
+    - [Lessons from Smalltalk](./?path=background_notes/02_lessons_from_smalltalk)
+    - [Lessons from CP/M](./?path=background_notes/03_lessons_from_cpm)
+    - [Qooxdoo and ExtJs](./?path=background_notes/04_qooxdoo_and_extjs)
+    - [Understanding User Requirements](./?path=background_notes/05_understanding_user_requirements)
+    - [Learning with Live Code](./?path=background_notes/06_learning_with_live_code)
