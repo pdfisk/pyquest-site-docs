@@ -1,6 +1,8 @@
 function showMarkdown() {
+    let origin = document.location.origin;
+    let href = document.location.href.substring(origin.length);
     let hash = document.location.hash;
-    if (hash.length === 0)
+    if (hash.length > 0)
         hash = '#index/index';
     const path = './markdown/' + hash.substring(1) + '.md';
     console.log('PATH', path);
