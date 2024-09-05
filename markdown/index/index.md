@@ -11,6 +11,10 @@
     - [Mobile Client](./?path=project_workplan/03_mobile_client)
     - [Python Compiler](./?path=project_workplan/04_python_compiler)
     - [Python Vm](./?path=project_workplan/05_python_vm)
+
+- Progam Docs
+    - Client
+        - <a href="./html/client/pyquest_desktop/index.html" target="_blank">pyquest_desktop</a>
   
 - Coding Subjects
     - [Bytecode Interpreter](./?path=coding_subjects/01_bytecode_interpreter)
