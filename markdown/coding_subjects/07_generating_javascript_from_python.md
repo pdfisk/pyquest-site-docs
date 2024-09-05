@@ -1,1 +1,2 @@
-# Generating JavaScript from Python
+## Generating JavaScript from Python
+[Index](/)

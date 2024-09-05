@@ -1,1 +1,2 @@
-# Current Status
+## Current Status
+[Index](/)

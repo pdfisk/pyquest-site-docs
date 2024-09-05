@@ -1,1 +1,2 @@
-# Lessons from Smalltalk
+## Lessons from Smalltalk
+[Index](/)

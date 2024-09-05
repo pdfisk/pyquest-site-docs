@@ -1,1 +1,2 @@
-# Qooxdoo and ExtJS
+## Qooxdoo and ExtJS
+[Index](/)

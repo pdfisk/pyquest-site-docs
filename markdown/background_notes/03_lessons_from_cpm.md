@@ -1,1 +1,2 @@
-# Lessons from CP/M
+## Lessons from CP/M
+[Index](/)

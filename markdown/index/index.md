@@ -2,8 +2,8 @@
 
 - Project Description
     - [Project Overview](./?path=project_description/001_project_overview)
-    - Architecture
-    - Current Status
+    - [Architecture](./?path=project_description/002_architecture)
+    - [Current Status](./?path=project_description/003_current_status)
 
 - Project Workplan
     - Tooling Setup

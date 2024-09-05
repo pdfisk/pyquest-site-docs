@@ -1,1 +1,2 @@
-# Tooling Setup
+## Tooling Setup
+[Index](/)

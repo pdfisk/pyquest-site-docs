@@ -1,1 +1,2 @@
-# Deferred Rendering
+## Deferred Rendering
+[Index](/)

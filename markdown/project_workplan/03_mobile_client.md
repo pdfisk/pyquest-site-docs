@@ -1,1 +1,2 @@
-# Mobile Client
+## Mobile Client
+[Index](/)

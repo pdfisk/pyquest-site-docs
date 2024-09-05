@@ -1,1 +1,2 @@
-# Clearing Dependencies
+## Clearing Dependencies
+[Index](/)

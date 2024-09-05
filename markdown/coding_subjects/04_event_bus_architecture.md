@@ -1,1 +1,2 @@
-# Event Bus Architecture
+## Event Bus Architecture
+[Index](/)
