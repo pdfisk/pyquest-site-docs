@@ -13,13 +13,13 @@
     - [Python Vm](./?path=project_workplan/05_python_vm)
   
 - Coding Subjects
-    - Bytecode Interpreter
-    - Process Scheduling
-    - Call and Continue
-    - Event Bus Architecture
-    - Deferred Rendering
-    - Clearing Dependencies
-    - Generating JavaScript from Python
+    - [Bytecode Interpreter](./?path=coding_subjects/01_bytecode_interpreter)
+    - [Process Scheduling](./?path=coding_subjects/02_process_scheduling)
+    - [Call and Continue](./?path=coding_subjects/03_call_and_continue)
+    - [Event Bus Architecture](./?path=coding_subjects/04_event_bus_architecture)
+    - [Deferred Rendering](./?path=coding_subjects/05_deferred_rendering)
+    - [Clearing Dependencies](./?path=coding_subjects/06_clearing_dependencies)
+    - [Generating JavaScript from Python](./?path=coding_subjects/07_generating_javascript_from_python)
 
 - Background Notes
     - Browser Environment
